@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": [
+            "Paris",
+            "London",
+            "Berlin",
+            "Madrid"
+        ],
+        "correctOption": "Paris"
+    },
+    {
+        "id": 2,
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correctOption": "Mars"
+    },
+    {
+        "id": 3,
+        "question": "What is the largest ocean on Earth?",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "correctOption": "Pacific Ocean"
+    },
+    {
+        "id": 4,
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": [
+            "William Shakespeare",
+            "Charles Dickens",
+            "Mark Twain",
+            "Jane Austen"
+        ],
+        "correctOption": "William Shakespeare"
+    },
+    {
+        "id": 5,
+        "question": "What is the smallest prime number?",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correctOption": "2"
+    },
+    {
+        "id": 6,
+        "question": "What is the chemical symbol for water?",
+        "options": [
+            "H2O",
+            "O2",
+            "CO2",
+            "NaCl"
+        ],
+        "correctOption": "H2O"
+    },
+    {
+        "id": 7,
+        "question": "Who is known as the father of computers?",
+        "options": [
+            "Charles Babbage",
+            "Alan Turing",
+            "Thomas Edison",
+            "Nikola Tesla"
+        ],
+        "correctOption": "Charles Babbage"
+    },
+    {
+        "id": 8,
+        "question": "How many continents are there on Earth?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctOption": "7"
+    },
+    {
+        "id": 9,
+        "question": "What is the square root of 64?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correctOption": "8"
+    },
+    {
+        "id": 10,
+        "question": "Which gas do plants primarily use for photosynthesis?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "correctOption": "Carbon Dioxide"
+    },
+    {
+        "id": 11,
+        "question": "What is the tallest mountain in the world?",
+        "options": [
+            "K2",
+            "Mount Everest",
+            "Kangchenjunga",
+            "Mount Kilimanjaro"
+        ],
+        "correctOption": "Mount Everest"
+    },
+    {
+        "id": 12,
+        "question": "Which programming language is primarily used for web development?",
+        "options": [
+            "Python",
+            "JavaScript",
+            "C++",
+            "Java"
+        ],
+        "correctOption": "JavaScript"
+    },
+    {
+        "id": 13,
+        "question": "What is the hardest natural substance on Earth?",
+        "options": [
+            "Gold",
+            "Diamond",
+            "Iron",
+            "Platinum"
+        ],
+        "correctOption": "Diamond"
+    },
+    {
+        "id": 14,
+        "question": "Which planet is the hottest in our solar system?",
+        "options": [
+            "Mercury",
+            "Venus",
+            "Mars",
+            "Jupiter"
+        ],
+        "correctOption": "Venus"
+    },
+    {
+        "id": 15,
+        "question": "What is the currency of Japan?",
+        "options": [
+            "Yuan",
+            "Won",
+            "Yen",
+            "Dollar"
+        ],
+        "correctOption": "Yen"
+    },
+    {
+        "id": 16,
+        "question": "Which element is represented by the symbol 'Au'?",
+        "options": [
+            "Silver",
+            "Gold",
+            "Copper",
+            "Platinum"
+        ],
+        "correctOption": "Gold"
+    },
+    {
+        "id": 17,
+        "question": "Who painted the Mona Lisa?",
+        "options": [
+            "Leonardo da Vinci",
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Claude Monet"
+        ],
+        "correctOption": "Leonardo da Vinci"
+    },
+    {
+        "id": 18,
+        "question": "Which organ in the human body is responsible for pumping blood?",
+        "options": [
+            "Brain",
+            "Heart",
+            "Liver",
+            "Lungs"
+        ],
+        "correctOption": "Heart"
+    },
+    {
+        "id": 19,
+        "question": "What is the largest planet in our solar system?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correctOption": "Jupiter"
+    },
+    {
+        "id": 20,
+        "question": "What is the boiling point of water at sea level?",
+        "options": [
+            "90°C",
+            "100°C",
+            "110°C",
+            "120°C"
+        ],
+        "correctOption": "100°C"
+    }
+]
